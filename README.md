@@ -8,7 +8,7 @@
 </a>
 
 [![GitHub Azarolla Dev](https://img.shields.io/github/followers/MonAzarolla?label=follow&style=social)](https://github.com/MonAzarolla)
-[![Gmail Badge](https://img.shields.io/badge/-monroeazarolla@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:monroeazarolla@gmail.com)](mailto:monroeazarolla@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:monroeazarolla@gmail.com)](mailto:monroeazarolla@gmail.com)
 
 
 My name is Monroe, and I am a beginner level programmer from New York City. I am currently learning the basics of python as well as Javascript. I also do web development where I ulitize google analysics, HTML, CSS, and Java. You can see my Github stats down below: 
