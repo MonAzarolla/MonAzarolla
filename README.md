@@ -11,10 +11,11 @@
 [![GitHub Azarolla Dev](https://img.shields.io/github/followers/MonAzarolla?label=follow&style=social)](https://github.com/MonAzarolla)
 
 
-
 My name is Monroe, and I am a beginner level programmer from New York City. I am currently learning the basics of python as well as Javascript. I also do web development where I ulitize google analysics, HTML, CSS, and Java. You can see my Github stats down below: 
+https://github.com/bradvin/social-share-urls/blob/master/images/logo-icons/reddit.jpg
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MonAzarolla&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="MonAzarolla's Github Stats">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MonAzarolla&include_all_commits=true&count_private=true&show_icons=true&line_height=40&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="MonAzarolla's Github Stats">
 
 #### Skills And Experience
 
