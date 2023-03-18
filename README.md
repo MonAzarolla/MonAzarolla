@@ -33,5 +33,7 @@ Programming to global e-commerce are the future. Not only to be part of the chan
 
 <h2> 🤔 Additional Info </h2>
 
-I am currently working on creating a RPA bot that can automically send emails, and edit emails so people will be able to get more things done without having the hassle of sending tedicious emails. The bot will be able to copy the style of emailing that each person has, and will be able to properly respond to emails without any issue. <h4> If you are interested in the project I am working on, or would like to assist, feel free to contact me. </h4><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I am currently working on creating a RPA bot that can automically send emails, and edit emails so people will be able to get more things done without having the hassle of sending tedicious emails. The bot will be able to copy the style of emailing that each person has, and will be able to properly respond to emails without any issue. 
+
+<h4> If you are interested in the project I am working on, or would like to assist, feel free to contact me. </h4><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p> 
