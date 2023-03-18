@@ -1,7 +1,6 @@
 Hello there 😊👨🏻‍💻🎉
 
-https://user-images.githubusercontent.com/128243732/226127023-3f7dca1f-d119-4d41-bee2-31e9d4434d31.gif
-
+![cute-wave-small-fox-06runm73dcrrg9ea](https://user-images.githubusercontent.com/128243732/226127023-3f7dca1f-d119-4d41-bee2-31e9d4434d31.gif)
 
 # Monroe Azarolla
 
