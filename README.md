@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://twitter.com/AzarollaDev">
-  <img align="left" alt="Monroe Azarolla | Youtube" width="22px" src="icon_48.png" />
+  <img align="left" alt="Monroe Azarolla | Youtube" width="22px" src="![Youtube_logo](https://user-images.githubusercontent.com/128243732/226132956-b1cc9bf2-1e43-4af3-be5c-588dde1bd2b9.png)" />
 </a>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:monroeazarolla@gmail.com)](mailto:monroeazarolla@gmail.com)
