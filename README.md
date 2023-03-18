@@ -6,7 +6,9 @@
 <a href="https://twitter.com/AzarollaDev">
   <img align="left" alt="Monroe Azarolla | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:monroeazarolla@gmail.com)](mailto:monroeazarolla@gmail.com)
+
 [![GitHub Azarolla Dev](https://img.shields.io/github/followers/MonAzarolla?label=follow&style=social)](https://github.com/MonAzarolla)
 
 
