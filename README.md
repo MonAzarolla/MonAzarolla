@@ -17,7 +17,7 @@ https://github.com/bradvin/social-share-urls/blob/master/images/logo-icons/reddi
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MonAzarolla&include_all_commits=true&count_private=true&show_icons=true&line_height=40&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="MonAzarolla's Github Stats">
 
-#### Skills And Experience
+<h2>Skills And Experience>/h2> 
 
 
 
