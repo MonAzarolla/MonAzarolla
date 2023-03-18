@@ -8,7 +8,6 @@
 </a>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:monroeazarolla@gmail.com)](mailto:monroeazarolla@gmail.com)
-
 [![GitHub Azarolla Dev](https://img.shields.io/github/followers/MonAzarolla?label=follow&style=social)](https://github.com/MonAzarolla)
 
 
