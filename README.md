@@ -1,16 +1,16 @@
-### Hi there 👋
+Hello there 😊👨🏻‍💻🎉
 
-<!--
-**MonAzarolla/MonAzarolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Monroe, and I am a beginner level programmer from New York City. I am currently learning the basics of python as well as Javascript. I also do web development where I ulitize google analysics, HTML, CSS, and Java. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+You can see my Github stats down below: 
+
+
+
+
+
+
+who is currently learning python, and interested in RPA. 
+
+
