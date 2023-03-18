@@ -8,8 +8,11 @@
 </a>
 
 <a href="https://twitter.com/AzarollaDev">
-  <img align="left" alt="Monroe Azarolla | Youtube" width="22px" src="![Youtube_logo](https://user-images.githubusercontent.com/128243732/226132956-b1cc9bf2-1e43-4af3-be5c-588dde1bd2b9.png)" />
+  <img align="left" alt="Monroe Azarolla | Youtube" width="22px" src="https://user-images.githubusercontent.com/128243732/226133324-05cf5db5-0593-4f61-9a46-6d43b78b27ef.png
+)" />
 </a>
+
+
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:monroeazarolla@gmail.com)](mailto:monroeazarolla@gmail.com)
 [![GitHub Azarolla Dev](https://img.shields.io/github/followers/MonAzarolla?label=follow&style=social)](https://github.com/MonAzarolla)
