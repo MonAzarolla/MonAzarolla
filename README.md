@@ -17,7 +17,7 @@ My name is Monroe, and I am a beginner level programmer from New York City. I am
 - 😄 Pronouns: They/Them 
 - 😋 Fun fact: My last name Azarolla means Fox 
 
-Programming to global e-commerce are the future. Not only to be part of the change of the future, but gain skills from internships and pursue bigger tech/marketing opportunities to make the change I want to see in the world. 
+Programming to global e-commerce are the future. Not only do I want be part of the change of the future, but gain skills from internships and pursue bigger tech/marketing opportunities to make the change I want to see in the world. 
 
 
 
