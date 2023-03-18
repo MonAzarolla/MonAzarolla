@@ -3,6 +3,10 @@
 <a href="https://discord.gg/v6JTwp3c">
   <img align="left" alt="Azarolla Dev's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
+<a href="https://www.reddit.com/user/AzarollaDev">
+  <img align="left" alt="Monroe Azarolla | Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+</a>
+
 <a href="https://twitter.com/AzarollaDev">
   <img align="left" alt="Monroe Azarolla | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
