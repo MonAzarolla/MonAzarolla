@@ -3,13 +3,12 @@
 <a href="https://discord.gg/v6JTwp3c">
   <img align="left" alt="Azarolla Dev's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://www.reddit.com/user/AzarollaDev">
-  <img align="left" alt="Monroe Azarolla | Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-</a>
-
 <a href="https://twitter.com/AzarollaDev">
   <img align="left" alt="Monroe Azarolla | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+
+[![GitHub Azarolla Dev](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/MonAzarolla)
+
 
 My name is Monroe, and I am a beginner level programmer from New York City. I am currently learning the basics of python as well as Javascript. I also do web development where I ulitize google analysics, HTML, CSS, and Java. You can see my Github stats down below: 
 
