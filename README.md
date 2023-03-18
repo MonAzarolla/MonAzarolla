@@ -7,10 +7,7 @@
   <img align="left" alt="Monroe Azarolla | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<a href="https://twitter.com/AzarollaDev">
-  <img align="left" alt="Monroe Azarolla | Youtube" width="22px" src="https://user-images.githubusercontent.com/128243732/226133324-05cf5db5-0593-4f61-9a46-6d43b78b27ef.png
-)" />
-</a>
+
 
 
 
@@ -21,6 +18,7 @@
 
 My name is Monroe, and I am a beginner level programmer from New York City. I am currently learning the basics of python as well as Javascript. I also do web development where I ulitize google analysics, HTML, CSS, and Java. You can see my Github stats down below: 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
 #### Skills And Experience
 
