@@ -1,5 +1,3 @@
-# Hello there 😊👨🏻‍💻🎉
-
 ![cute-fox-hi](https://user-images.githubusercontent.com/128243732/226128844-23856c6e-6f2f-43d5-8ab4-ff9ecc3bd83f.gif)
 
 
