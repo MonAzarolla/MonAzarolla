@@ -1,4 +1,5 @@
-![cute-wave-small-fox-06runm73dcrrg9ea](https://user-images.githubusercontent.com/128243732/226127023-3f7dca1f-d119-4d41-bee2-31e9d4434d31.gif) 
+![cute-fox-hi](https://user-images.githubusercontent.com/128243732/226128844-23856c6e-6f2f-43d5-8ab4-ff9ecc3bd83f.gif)
+
 # Hello there 😊👨🏻‍💻🎉
 
 ## Monroe Azarolla
